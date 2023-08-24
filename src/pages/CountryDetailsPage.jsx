@@ -1,7 +1,10 @@
 function CountryDetails() {
 
+return(
 
-    <h1>Country Details</h1>
+     <h3>Country Details</h3>
+)
+   
 
 
 }
